@@ -2,8 +2,10 @@
 title: "Pale Blue Dot"
 date: 2022-03-18T15:44:10+05:30
 ---
+
+
 ![Pale Blue Dot Revisited](pale.blue.dot.jpg)
-Credits: [NASA/JPL-Caltech](https://www.nasa.gov/feature/jpl/pale-blue-dot-revisited)
+Image Credit: [NASA/JPL-Caltech](https://www.nasa.gov/feature/jpl/pale-blue-dot-revisited)
 
 Look again at that dot. That's here. That's home. That's us. On it
 everyone you love, everyone you know, everyone you ever heard of,
@@ -25,6 +27,12 @@ inhabitants of one corner of this pixel on the scarcely
 distinguishable inhabitants of some other corner, how frequent their
 misunderstandings, how eager they are to kill one another, how fervent
 their hatreds.
+
+{{< rawhtml >}} 
+<video width=100% controls autoplay>
+    <source src="Carl Sagan - Pale Blue Dot.mp4" type="video/mp4">
+</video>
+{{< /rawhtml >}}
 
 Our posturings, our imagined self-importance, the delusion that we
 have some privileged position in the Universe, are challenged by this

@@ -12,4 +12,4 @@ draft: false
 
 {{< /rawhtml >}}
 
-This is a trick to be `root` without password using `Single User Mode` on default `FREEBSD` installation. Full process was reported on [FreeBSD Forum](https://forums.freebsd.org/threads/bug-no-feature-sure-but.84393/)
+This is a trick to be `root` without password using `Single User Mode` on default *`FREEBSD`* installation. Full process was reported on [FreeBSD Forum](https://forums.freebsd.org/threads/bug-no-feature-sure-but.84393/)
