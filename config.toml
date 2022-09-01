@@ -8,6 +8,12 @@ disableThemeToggle = "true"
 ShowReadingTime = "true"
 ShowToc = "true"
 TocOpen = "true"
+
+[taxonomies]
+   tag = "tags"
+   category = "categories"
+
+
 [menu]
   [[menu.main]]
     identifier = "blogs"
@@ -15,17 +21,11 @@ TocOpen = "true"
     url = "/blog/"
     weight = 10
 	
-
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
     weight = 10
-
-
-
-
-
 
 
 
