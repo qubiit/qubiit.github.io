@@ -1,6 +1,9 @@
 ---
 title: "Pale Blue Dot"
-date: 2022-03-18T15:44:10+05:30
+date: 2022-01-1T15:44:10+05:30
+categories:
+tags: ['pale blue dot', 'carl segan']
+draft: false
 ---
 
 

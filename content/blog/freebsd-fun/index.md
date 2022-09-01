@@ -1,6 +1,7 @@
 ---
 title: "FreeBSD Fun"
 date: 2022-04-26T19:33:32+05:30
+tags: ['unix','freebsd']
 draft: false
 ---
 
