@@ -10,6 +10,6 @@ ShowShareButtons: true
 
 Exploring the possibilities of Data Science with python. Currently working on a Big Data project of time series with `Billion+` rows.
 
-I am interested in `Big Data`, `Artificial Intelligence`
+I am interested in `Big Data`, `Artificial Intelligence`.
 
 Thank you for visiting my website.
