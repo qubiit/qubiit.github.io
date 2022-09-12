@@ -5,40 +5,28 @@ categories:
 tags: ['python' ,'python reference']
 draft: false
 ---
-### This is the whole `python` references in one place.
-# Table of Contents
-1. [List](#list)
-2. [Tuple](#tuple)
-3. [Set](#set)
-4. [Dictionary](#dictionary)
-5. [Comparison of Data Types](#comparison-of-data-types)
-6. [String Methods](#string-methods)
-7. [Python Try Except](#python-try-except)
-8. [Python Iterators](#python-iterators)
-9. [Built In Functions](#built-in-functions)
-10. [Datetime Formats](#datetime-formats)
-
+## Python Reference 
 ***
-## List
+### List
 
 List items are ordered, changeable, and allow duplicate values.
 
-- ### Ordered
+#### Ordered
 
 When we say that lists are ordered, it means that the items have a defined order, and that order will not change.
 
 If you add new items to a list, the new items will be placed at the end of the list.
 
-- ### Changeable
+- #### Changeable
 
 The list is changeable, meaning that we can change, add, and remove items in a list after it has been created.
 
-- ### Allow Duplicates
+- #### Allow Duplicates
 
 Since lists are indexed, lists can have items with the same value
 
 
-- ### List Methods
+- #### List Methods
 
 | Method | Description |
 | --- | --- |
@@ -56,25 +44,25 @@ Since lists are indexed, lists can have items with the same value
 
 ***
 
-## Tuple
+### Tuple
 
 Tuple items are ordered, unchangeable, and allow duplicate values.
 
 Tuple items are indexed, the first item has index `[0]`, the second item has index `[1]` etc.
 
-- ### Ordered
+- #### Ordered
 
 When we say that tuples are ordered, it means that the items have a defined order, and that order will not change.
 
-- ### Unchangeable
+- #### Unchangeable
 
 Tuples are unchangeable, meaning that we cannot change, add or remove items after the tuple has been created.
 
-- ### Allow Duplicates
+- #### Allow Duplicates
 
 Since tuples are indexed, they can have items with the same value
 
-- ### Tuple Methods
+- #### Tuple Methods
 
 | Method | Description |
 | --- | --- |
@@ -82,29 +70,29 @@ Since tuples are indexed, they can have items with the same value
 | [index()](https://www.w3schools.com/python/ref_tuple_index.asp) | Searches the tuple for a specified value and returns the position of where it was found |
 
 ***
-## Set
+### Set
 
 A set is a collection which is *unordered*, *unchangeable**, and *unindexed*.
 
 Set items are unordered, unchangeable, and do not allow duplicate values.
 
-- ### Unordered
+- #### Unordered
 
 Unordered means that the items in a set do not have a defined order.
 
 Set items can appear in a different order every time you use them, and cannot be referred to by index or key.
 
-- ### Unchangeable
+- #### Unchangeable
 
 Set items are unchangeable, meaning that we cannot change the items after the set has been created.
 
 Once a set is created, you cannot change its items, but you can remove items and add new items.
 
-- ### Duplicates Not Allowed
+- #### Duplicates Not Allowed
 
 Sets cannot have two items with the same value.
 
-- ### Set Methods
+- #### Set Methods
 
 | Method | Description |
 | --- | --- |
@@ -128,11 +116,11 @@ Sets cannot have two items with the same value.
 
 ***
 
-## Dictionary
+### Dictionary
 
 Dictionary items are ordered, changeable, and does not allow duplicates.
 
-- ### Ordered or Unordered?
+- #### Ordered or Unordered?
 
 As of Python version 3.7, dictionaries are *ordered*. In Python 3.6 and earlier, dictionaries are *unordered*.
 
@@ -140,15 +128,15 @@ When we say that dictionaries are ordered, it means that the items have a define
 
 Unordered means that the items does not have a defined order, you cannot refer to an item by using an index.
 
-- ### Changeable
+- #### Changeable
 
 Dictionaries are changeable, meaning that we can change, add or remove items after the dictionary has been created.
 
-- ### Duplicates Not Allowed
+- #### Duplicates Not Allowed
 
 Dictionaries cannot have two items with the same key.
 
-- ### Dictionary Methods
+- #### Dictionary Methods
 
 | Method | Description |
 | --- | --- |
@@ -166,7 +154,7 @@ Dictionaries cannot have two items with the same key.
 
 ***
 
-## Comparison of Data Types
+### Comparison of Data Types
 
 |     |     |     |     |
 | --- | --- | --- | --- |
@@ -177,7 +165,7 @@ Dictionaries cannot have two items with the same key.
 
 ***
 
-## String Methods
+### String Methods
 
 | Method | Description |
 | --- | --- |
@@ -229,7 +217,7 @@ Dictionaries cannot have two items with the same key.
 
 ***
 
-## Python Try Except
+### Python Try Except
 
 The `try` block lets you test a block of code for errors.
 
@@ -241,7 +229,7 @@ The `finally` block lets you execute code, regardless of the result of the try- 
 
 ***
 
-## Python Iterators
+### Python Iterators
 
 An iterator is an object that can be iterated upon, meaning that you can traverse through all the values.
 
@@ -249,7 +237,7 @@ Technically, in Python, an iterator is an object which implements the iterator p
 
 ***
 
-## Built In Functions
+### Built In Functions
 
 | Function | Description |
 | --- | --- |
@@ -323,7 +311,7 @@ Technically, in Python, an iterator is an object which implements the iterator p
 
 ***
 
-## Datetime Formats
+### Datetime Formats
 
 | Directive | Description | Example |
 | --- | --- | --- |

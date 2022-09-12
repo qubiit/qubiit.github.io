@@ -4,6 +4,7 @@ date: 2022-01-01T15:44:10+05:30
 categories:
 tags: ['pale blue dot', 'carl segan']
 draft: false
+showtoc: false
 ---
 
 
@@ -55,4 +56,4 @@ human conceits than this distant image of our tiny world. To me, it
 underscores our responsibility to deal more kindly with one another,
 and to preserve and cherish the pale blue dot, the only home we've
 ever known.
-## --Carl Sagan, _Pale Blue Dot_, 1994
+### --Carl Sagan, _Pale Blue Dot_, 1994
