@@ -21,7 +21,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   # title: Qu-bit's blog #have it on global
   description: QuBit's blog
-  keywords: [Blog, Portfolio, Qu-bit]
+  keywords: [Blog, Portfolio, QuBit]
   author: QuBit
   # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -63,7 +63,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: QuBit
-    subtitle: Data Scientist | ML Engineer
+    #subtitle: Welcome to my blog
     # imageUrl: "<img location>"
     # imageWidth: 120
     # imageHeight: 120
