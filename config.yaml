@@ -91,7 +91,7 @@ params:
     # - name: kaggle
     #   url: https://www.kaggle.com/qubiit
     - name: email
-      url: contact
+      url: mailto:pmtome@pm.me
 
   analytics:
     google:
