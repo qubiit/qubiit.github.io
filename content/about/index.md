@@ -8,8 +8,8 @@ ShowReadingTime: false
 ShowShareButtons: true
 ---
 
-Exploring the possibilities of Data Science with python. Currently working on a Big Data project of time series with `Billion+` rows.
+Exploring the possibilities of Data Science with python.
 
-I am interested in `Big Data`, `Artificial Intelligence`.
+I am interested in `Data Engineering`, `Machine Learning`.
 
 Thank you for visiting my website.
