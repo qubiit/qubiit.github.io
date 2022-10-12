@@ -63,7 +63,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: QuBit
-    #subtitle: Welcome to my blog
+    subtitle: "Superposition, Entanglement & Interference"
     # imageUrl: "<img location>"
     # imageWidth: 120
     # imageHeight: 120
