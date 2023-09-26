@@ -69,7 +69,7 @@ params:
     # imageHeight: 120
     # imageTitle: my image
     buttons:
-      - name: Blog
+      - name: Blogs
         url: blog
       - name: Tags
         url: tags
@@ -134,8 +134,8 @@ menu:
       url: /tags/
       weight: 30
     - identifier: blog
-      name: Blog
-      title: Blog
+      name: Blogs
+      title: Blogs  
       url: /blog/
       weight: 10
     - identifier: about

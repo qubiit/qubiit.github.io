@@ -2,7 +2,7 @@
 title: "Pale Blue Dot"
 date: 2022-01-01T15:44:10+05:30
 categories:
-tags: ['book', 'pale blue dot', 'carl segan']
+tags: ['book', 'pale blue dot', 'carl sagan']
 draft: false
 showtoc: false
 ---
