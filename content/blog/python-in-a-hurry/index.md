@@ -3,7 +3,7 @@ title: "Python In A Hurry"
 date: 2022-06-11T15:44:10+05:30
 categories:
 tags: ['python' ,'python reference']
-draft: false
+draft: true
 ---
 ## Python Reference 
 ***
