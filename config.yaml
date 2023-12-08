@@ -90,9 +90,11 @@ params:
       url: https://gitlab.com/qu-bit
     # - name: kaggle
     #   url: https://www.kaggle.com/qubiit
+    - name: mastodon
+      url: https://mastodon.social/@qubiit
     - name: email
       url: mailto:pmtome@pm.me
-
+      
   analytics:
     google:
       SiteVerificationTag: "82c872f87d5b4b018a3b7cbc85afc9a1"
