@@ -45,5 +45,5 @@ from that piddling around with the wobbling plate.
 
 ### Surely You're Joking, Mr. Feynman!
 #### Adventures of a Curious Character
-##### by **Richard P. Feynman**, 1985
+##### by *Richard P. Feynman*, 1985
 ###### as told to Ralph Leighton
