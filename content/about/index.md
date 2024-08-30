@@ -10,8 +10,6 @@ ShowPostNavLinks: False
 author: " "
 ---
 
-I am QuBit from India, exploring the possibilities of Data Science with python.
+I'm QuBit, a programmer from India. I'm passionate about data and data driven technologies. Currently working at a small startup where I'm responsible for designing, building, and maintaining data pipelines and systems that facilitate the collection, storage, and analysis of large volumes of timeseries.
 
-I am interested in `Data Engineering`, `Machine Learning`.
-
-Thank you for visiting my website.
+Thank you for visiting.
