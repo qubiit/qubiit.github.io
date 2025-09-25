@@ -3,7 +3,7 @@ title: "The Theory Of Everything"
 date: 2024-01-01T15:44:10+05:30
 categories:
 tags: ['book',]
-draft: true
+draft: false
 showtoc: false
 ---
 
