@@ -80,7 +80,7 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    # - name: twitter
+    # - name: x
     #   url: "https://twitter.com/"
     # - name: stackoverflow
     #   url: "https://stackoverflow.com"
@@ -93,7 +93,7 @@ params:
     - name: mastodon
       url: https://mastodon.social/@qubiit
     - name: email
-      url: mailto:pronaybiswas@pm.me
+      url: mailto:pronaybiswas@protonmail.com
       
   analytics:
     google:
